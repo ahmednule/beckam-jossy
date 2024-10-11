@@ -16,9 +16,9 @@ function Footer() {
                         <p>Librarian</p>
                         <p>Nairobi Technical Training Institute</p>
                         <p>Pengani Kenya</p>
-                        <p>Becham Jossy</p>
+                        <p>Beckham Jossy</p>
                         <p>Kenya</p>
-                        <p><b>Email:</b>backamjossy@gmail.com</p>
+                        <p><b>Email:</b>Beckhamjossyo@gmail.com</p>
                     </div>
                     <div className='usefull-links'>
                         <h1>Usefull Links</h1>
