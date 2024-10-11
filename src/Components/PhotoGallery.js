@@ -7,7 +7,7 @@ function PhotoGallery() {
         <div className='photogallery-container'>
             <h1 className='photogallery-title'>Photo Gallery</h1>
             <div className="photogallery-images">
-                <img src="https://source.unsplash.com/1300x1200/?algeria" alt=''/>
+                <img src="https://unsplash.com/photos/view-of-floating-open-book-from-stacked-books-in-library-HH4WBGNyltc" alt='picture 1'/>
                 <img src="https://source.unsplash.com/1300x1200/?lebanon" alt=''/>
                 <img src="https://source.unsplash.com/1300x1200/?qatar" alt=''/>
                 <img src="https://source.unsplash.com/1300x1200/?uae" alt=''/>
